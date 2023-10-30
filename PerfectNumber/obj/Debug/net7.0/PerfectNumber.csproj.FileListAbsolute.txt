@@ -1,0 +1,14 @@
+/Users/mehmetalbayrak/Desktop/day_03/PerfectNumber/bin/Debug/net7.0/PerfectNumber
+/Users/mehmetalbayrak/Desktop/day_03/PerfectNumber/bin/Debug/net7.0/PerfectNumber.deps.json
+/Users/mehmetalbayrak/Desktop/day_03/PerfectNumber/bin/Debug/net7.0/PerfectNumber.runtimeconfig.json
+/Users/mehmetalbayrak/Desktop/day_03/PerfectNumber/bin/Debug/net7.0/PerfectNumber.dll
+/Users/mehmetalbayrak/Desktop/day_03/PerfectNumber/bin/Debug/net7.0/PerfectNumber.pdb
+/Users/mehmetalbayrak/Desktop/day_03/PerfectNumber/obj/Debug/net7.0/PerfectNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetalbayrak/Desktop/day_03/PerfectNumber/obj/Debug/net7.0/PerfectNumber.AssemblyInfoInputs.cache
+/Users/mehmetalbayrak/Desktop/day_03/PerfectNumber/obj/Debug/net7.0/PerfectNumber.AssemblyInfo.cs
+/Users/mehmetalbayrak/Desktop/day_03/PerfectNumber/obj/Debug/net7.0/PerfectNumber.csproj.CoreCompileInputs.cache
+/Users/mehmetalbayrak/Desktop/day_03/PerfectNumber/obj/Debug/net7.0/PerfectNumber.dll
+/Users/mehmetalbayrak/Desktop/day_03/PerfectNumber/obj/Debug/net7.0/refint/PerfectNumber.dll
+/Users/mehmetalbayrak/Desktop/day_03/PerfectNumber/obj/Debug/net7.0/PerfectNumber.pdb
+/Users/mehmetalbayrak/Desktop/day_03/PerfectNumber/obj/Debug/net7.0/PerfectNumber.genruntimeconfig.cache
+/Users/mehmetalbayrak/Desktop/day_03/PerfectNumber/obj/Debug/net7.0/ref/PerfectNumber.dll
