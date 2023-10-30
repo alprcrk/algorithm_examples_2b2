@@ -1,0 +1,14 @@
+/Users/mehmetalbayrak/Desktop/day_03/CharacterCounts/bin/Debug/net7.0/CharacterCounts
+/Users/mehmetalbayrak/Desktop/day_03/CharacterCounts/bin/Debug/net7.0/CharacterCounts.deps.json
+/Users/mehmetalbayrak/Desktop/day_03/CharacterCounts/bin/Debug/net7.0/CharacterCounts.runtimeconfig.json
+/Users/mehmetalbayrak/Desktop/day_03/CharacterCounts/bin/Debug/net7.0/CharacterCounts.dll
+/Users/mehmetalbayrak/Desktop/day_03/CharacterCounts/bin/Debug/net7.0/CharacterCounts.pdb
+/Users/mehmetalbayrak/Desktop/day_03/CharacterCounts/obj/Debug/net7.0/CharacterCounts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetalbayrak/Desktop/day_03/CharacterCounts/obj/Debug/net7.0/CharacterCounts.AssemblyInfoInputs.cache
+/Users/mehmetalbayrak/Desktop/day_03/CharacterCounts/obj/Debug/net7.0/CharacterCounts.AssemblyInfo.cs
+/Users/mehmetalbayrak/Desktop/day_03/CharacterCounts/obj/Debug/net7.0/CharacterCounts.csproj.CoreCompileInputs.cache
+/Users/mehmetalbayrak/Desktop/day_03/CharacterCounts/obj/Debug/net7.0/CharacterCounts.dll
+/Users/mehmetalbayrak/Desktop/day_03/CharacterCounts/obj/Debug/net7.0/refint/CharacterCounts.dll
+/Users/mehmetalbayrak/Desktop/day_03/CharacterCounts/obj/Debug/net7.0/CharacterCounts.pdb
+/Users/mehmetalbayrak/Desktop/day_03/CharacterCounts/obj/Debug/net7.0/CharacterCounts.genruntimeconfig.cache
+/Users/mehmetalbayrak/Desktop/day_03/CharacterCounts/obj/Debug/net7.0/ref/CharacterCounts.dll
