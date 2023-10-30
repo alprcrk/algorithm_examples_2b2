@@ -1,0 +1,14 @@
+/Users/mehmetalbayrak/Desktop/day_03/Fibonacci/bin/Debug/net7.0/Fibonacci
+/Users/mehmetalbayrak/Desktop/day_03/Fibonacci/bin/Debug/net7.0/Fibonacci.deps.json
+/Users/mehmetalbayrak/Desktop/day_03/Fibonacci/bin/Debug/net7.0/Fibonacci.runtimeconfig.json
+/Users/mehmetalbayrak/Desktop/day_03/Fibonacci/bin/Debug/net7.0/Fibonacci.dll
+/Users/mehmetalbayrak/Desktop/day_03/Fibonacci/bin/Debug/net7.0/Fibonacci.pdb
+/Users/mehmetalbayrak/Desktop/day_03/Fibonacci/obj/Debug/net7.0/Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetalbayrak/Desktop/day_03/Fibonacci/obj/Debug/net7.0/Fibonacci.AssemblyInfoInputs.cache
+/Users/mehmetalbayrak/Desktop/day_03/Fibonacci/obj/Debug/net7.0/Fibonacci.AssemblyInfo.cs
+/Users/mehmetalbayrak/Desktop/day_03/Fibonacci/obj/Debug/net7.0/Fibonacci.csproj.CoreCompileInputs.cache
+/Users/mehmetalbayrak/Desktop/day_03/Fibonacci/obj/Debug/net7.0/Fibonacci.dll
+/Users/mehmetalbayrak/Desktop/day_03/Fibonacci/obj/Debug/net7.0/refint/Fibonacci.dll
+/Users/mehmetalbayrak/Desktop/day_03/Fibonacci/obj/Debug/net7.0/Fibonacci.pdb
+/Users/mehmetalbayrak/Desktop/day_03/Fibonacci/obj/Debug/net7.0/Fibonacci.genruntimeconfig.cache
+/Users/mehmetalbayrak/Desktop/day_03/Fibonacci/obj/Debug/net7.0/ref/Fibonacci.dll
