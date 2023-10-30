@@ -1,31 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ALPER\\OneDrive\\Masaüstü\\GitHub\\ArmstrongNumber\\ArmstrongNumber.csproj": {}
+    "/Users/mehmetalbayrak/Desktop/algorithm_examples_2b2/ArmstrongNumber/ArmstrongNumber.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ALPER\\OneDrive\\Masaüstü\\GitHub\\ArmstrongNumber\\ArmstrongNumber.csproj": {
+    "/Users/mehmetalbayrak/Desktop/algorithm_examples_2b2/ArmstrongNumber/ArmstrongNumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALPER\\OneDrive\\Masaüstü\\GitHub\\ArmstrongNumber\\ArmstrongNumber.csproj",
+        "projectUniqueName": "/Users/mehmetalbayrak/Desktop/algorithm_examples_2b2/ArmstrongNumber/ArmstrongNumber.csproj",
         "projectName": "ArmstrongNumber",
-        "projectPath": "C:\\Users\\ALPER\\OneDrive\\Masaüstü\\GitHub\\ArmstrongNumber\\ArmstrongNumber.csproj",
-        "packagesPath": "C:\\Users\\ALPER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALPER\\OneDrive\\Masaüstü\\GitHub\\ArmstrongNumber\\obj\\",
+        "projectPath": "/Users/mehmetalbayrak/Desktop/algorithm_examples_2b2/ArmstrongNumber/ArmstrongNumber.csproj",
+        "packagesPath": "/Users/mehmetalbayrak/.nuget/packages/",
+        "outputPath": "/Users/mehmetalbayrak/Desktop/algorithm_examples_2b2/ArmstrongNumber/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ALPER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/mehmetalbayrak/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }
