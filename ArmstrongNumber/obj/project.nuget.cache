@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3+aWum04+JvV/4N2UpRZPPalrjOlcokNNPJZwBXQMWaHR9xGCZRt1dKkMpJaSV8RyRsLgNm9fsP++PnxMlA7Lw==",
+  "dgSpecHash": "JuR0Qve28TFwimj2j1QV3lplQG4xlhqdhsltLgXVxjGidbaY3PDk12rTmV6HNYZH4JNXp72cjduFzJNdUTrucw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cemal\\Desktop\\PR\\algorithm_examples_2b2\\ArmstrongNumber\\ArmstrongNumber.csproj",
+  "projectFilePath": "/Users/mehmetalbayrak/Desktop/algorithm_examples_2b2/ArmstrongNumber/ArmstrongNumber.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
