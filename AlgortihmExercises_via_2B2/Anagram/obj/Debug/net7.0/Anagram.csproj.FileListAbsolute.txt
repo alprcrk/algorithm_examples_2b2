@@ -1,0 +1,14 @@
+C:\Tobeto\1A\CSharp\ArmstrongNumber\Anagram\bin\Debug\net7.0\Anagram.exe
+C:\Tobeto\1A\CSharp\ArmstrongNumber\Anagram\bin\Debug\net7.0\Anagram.deps.json
+C:\Tobeto\1A\CSharp\ArmstrongNumber\Anagram\bin\Debug\net7.0\Anagram.runtimeconfig.json
+C:\Tobeto\1A\CSharp\ArmstrongNumber\Anagram\bin\Debug\net7.0\Anagram.dll
+C:\Tobeto\1A\CSharp\ArmstrongNumber\Anagram\bin\Debug\net7.0\Anagram.pdb
+C:\Tobeto\1A\CSharp\ArmstrongNumber\Anagram\obj\Debug\net7.0\Anagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tobeto\1A\CSharp\ArmstrongNumber\Anagram\obj\Debug\net7.0\Anagram.AssemblyInfoInputs.cache
+C:\Tobeto\1A\CSharp\ArmstrongNumber\Anagram\obj\Debug\net7.0\Anagram.AssemblyInfo.cs
+C:\Tobeto\1A\CSharp\ArmstrongNumber\Anagram\obj\Debug\net7.0\Anagram.csproj.CoreCompileInputs.cache
+C:\Tobeto\1A\CSharp\ArmstrongNumber\Anagram\obj\Debug\net7.0\Anagram.dll
+C:\Tobeto\1A\CSharp\ArmstrongNumber\Anagram\obj\Debug\net7.0\refint\Anagram.dll
+C:\Tobeto\1A\CSharp\ArmstrongNumber\Anagram\obj\Debug\net7.0\Anagram.pdb
+C:\Tobeto\1A\CSharp\ArmstrongNumber\Anagram\obj\Debug\net7.0\Anagram.genruntimeconfig.cache
+C:\Tobeto\1A\CSharp\ArmstrongNumber\Anagram\obj\Debug\net7.0\ref\Anagram.dll
